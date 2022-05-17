@@ -1,6 +1,4 @@
 # Hazel's Website
 
 
-I only used 2 Web Languages:
-- HTML
-- CSS
+This was my first client for website development for her school academic. in short, I did this for my commision. This was 3 years ago.
